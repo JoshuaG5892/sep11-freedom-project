@@ -1,13 +1,15 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: **Phaser**
 
-## Project: **X**
+## Project: **Trying to do an animation**
 
 ---
 
-### X/X/XX:
-* Text
+### 10/22/26:
+* preload() means like load assets which means it loads my characters,images, and sound.
+* create() is like a setup it runs once right after loading finishes. It places everything on the screen
+* update() (is the game loop) It runs constantly (60 times every second) it also checks what keys your pressing
 
 ### X/X/XX:
 * Text
