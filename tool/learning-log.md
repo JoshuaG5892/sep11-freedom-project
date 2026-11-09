@@ -11,8 +11,10 @@
 * create() is like a setup it runs once right after loading finishes. It places everything on the screen
 * update() (is the game loop) It runs constantly (60 times every second) it also checks what keys your pressing
 
-### X/X/XX:
-* Text
+### 11/06/26:
+* I learned this.load.spritesheet() in preload() and set the exact framewidth and frameheight for characters
+* I used this.anims.create() inside create() to define the animation key.
+* How to use movement sprite.anims.play(key,true) inside updates() when arrow keys are pressed 
 
 
 <!-- 
